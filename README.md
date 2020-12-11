@@ -2,9 +2,9 @@
 # Hello World 👋
 # Ensar KURT's GitHub
 
-- 🔭 I’m currently working at Trendyol as a Software Engineer 💻
-- 🌱 I’m currently learning Javascript & React
-- ⚡ Fun fact: I love reading about everything 💬
+- 🔭 I’m currently working at CinePrize as a Software Engineer 💻
+- 🌱 I’m currently learning Laravel & Flutter
+- ⚡ Fun fact: I like to improve myself 💬
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ensarkurrt" alt="ensarkurrt" /> </p>
 
