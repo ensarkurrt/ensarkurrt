@@ -14,7 +14,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ensarkurrt&show_icons=true&theme=radical">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensarkurrt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensarkurrt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ensarkurrt)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ensar-kurt-a23b92169/)
