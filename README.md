@@ -3,7 +3,7 @@
 # Ensar KURT's GitHub
 
 - 🔭 I’m currently working at CinePrize as a Software Engineer 💻
-- 🌱 I’m currently learning Laravel & Flutter
+- 🌱 I’m currently learning NextJS TS & Flutter & Java SB
 - ⚡ Fun fact: I like to improve myself 💬
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ensarkurrt" alt="ensarkurrt" /> </p>
