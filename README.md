@@ -2,8 +2,8 @@
 # Hello World 👋
 # Ensar KURT's GitHub
 
-- 🔭 I’m currently working at CinePrize as a Software Engineer 💻
-- 🌱 I’m currently learning NextJS TS & Flutter & Java SB
+- 🔭 I’m currently working at Türkiye Finans Katılım Bankası as a .NET Developer 💻
+- 🌱 I’m currently learning NextJS TS & Flutter & Java SpringBoot
 - ⚡ Fun fact: I like to improve myself 💬
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ensarkurrt" alt="ensarkurrt" /> </p>
